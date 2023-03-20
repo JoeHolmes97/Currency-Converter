@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Currency Converter", "Currency Converter\Currency Converter.pyproj", "{2EEB4275-5D11-464C-A9AF-2EBABB958B03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EEB4275-5D11-464C-A9AF-2EBABB958B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEB4275-5D11-464C-A9AF-2EBABB958B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBE4E2DF-AA59-40BC-BC9D-2B52E98E1482}
+	EndGlobalSection
+EndGlobal
